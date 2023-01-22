@@ -972,9 +972,9 @@ const data = [
   },
 ];
 
-// Question 1: Extract the names of all meteorites that have a mass greater than 10,000 kg and have fallen in the 21st century (2000-2099).
+// Question 1: Extract an array the names of all meteorites that have a mass greater than 10,000 kg and have fallen in the 21st century (2000-2099).
 
-// Question 2: Extract the top 10 meteorites by mass that have fallen in the United States, sorted in descending order.
+// Question 2: Extract an array the top 10 meteorites by mass that have fallen in the United States, sorted in descending order.
 
 // Question 3: Create an object that groups the meteorites by their class and calculates the total mass of each class.
 
