@@ -243,7 +243,7 @@ const data = {
   ]
 };
 
-// Question 1: Extract the name of the planet with the smallest population that has a specific climate and terrain.
+// Question 1: Extract the name of the planet with the smallest population that has a temperate climate and mountains terrain.
 
 // Question 2: Extract the names of all the planets that have a 'temperate' climate, and return the name of the planet, the climate and the number of films in which it was featured, also sort it by the number of films in descending order, using a for of loop and if else statement.
 
