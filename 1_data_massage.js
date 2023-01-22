@@ -92,7 +92,7 @@ const data = [
 
 // Question 1: Extract a list of all the people's names from the data.
 
-// Question 2: Get all the job titles for the people.
+// Question 2: Get all the job positions for all the people.
 
 // Question 3: Find the average age of the people.
 
@@ -114,4 +114,3 @@ const data = [
 
 // Question 12: Extract all the people who have "yoga" as a hobby, and create a new field "job_history" which is an array of objects containing the company, position, start date, and end date of all the jobs they have held.
 
-// Question 13: Extract all the people who have "fishing" as a hobby, and create a new field "job_duration" which is an array of the number of months they have worked in each job
