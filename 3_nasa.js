@@ -978,7 +978,5 @@ const data = [
 
 // Question 3: Create an object that groups the meteorites by their class and calculates the total mass of each class.
 
-// Question 4: Extract the top 10 meteorites with the highest mass, grouped by their classification and sorted by mass within each classification.
-
-// Question 5: Create a new object that groups meteorites by their class, and within each class, groups them by their year found. The object should have the class as the key and the value should be another object with the year as the key and an array of meteorites as the value.
+// Question 4: Create a new object that groups meteorites by their class, and within each class, groups them by their year found. The object should have the class as the key and the value should be another object with the year as the key and an array of meteorites as the value.
 
