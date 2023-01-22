@@ -90,27 +90,25 @@ const data = [
   }
 ];
 
-// Question 1: Extract a list of all the people's names from the data.
+// Question 1: Extract to an array a list of all the people's names from the data.
 
-// Question 2: Get all the job positions for all the people.
+// Question 2: Extract to an array all the job positions for all the people.
 
 // Question 3: Find the average age of the people.
 
-// Question 4: Get all the unique cities where the people live.
+// Question 4: Return an array with the unique cities where the people live.
 
-// Question 5: Extract a list of all the people's hobbies in alphabetical order.
+// Question 5: Extract to an array a list of all the people's hobbies in alphabetical order.
 
 // Question 6: Get the total number of years of experience for all the people in the data.
 
-// Question 7: Extract all the names of the people who live in California and have a job as a "Senior QA Engineer" and have "cooking" as a hobby, and sort them alphabetically.
+// Question 7: Extract to an array all the names of the people who live in California and have a job as a "Senior QA Engineer" and have "cooking" as a hobby, and sort them alphabetically.
 
-// Question 8: Extract all the responsibilities of the people who live in Chicago and are currently employed as "Senior Data Analysts".
+// Question 8: Extract to an array all the responsibilities of the people who live in Chicago and are currently employed as "Senior Data Analysts".
 
-// Question 9: Extract all the people who have "hiking" as a hobby and create a new field "job_experience" which is the sum of the number of months they have worked in each job.
+// Question 9: Extract to an array of objects with the names of all the people who have "hiking" as a hobby and a field "job_experience" which is the sum of the number of months they have worked in each job.
 
-// Question 10: Extract all the people who have "surfing" as a hobby and create a new field "job_titles" which is an array of all the positions the person has held and another new field "current_job" which is the current job if they have one or "Not currently employed" if they do not.
+// Question 10: Extract to an array of objects with the names of all the people who have "traveling" as a hobby, and create a new field "most_recent_job" which is an object containing the company, position, and start date of their most recent job.
 
-// Question 11: Extract all the people who have "traveling" as a hobby, and create a new field "most_recent_job" which is an object containing the company, position, and start date of their most recent job.
-
-// Question 12: Extract all the people who have "yoga" as a hobby, and create a new field "job_history" which is an array of objects containing the company, position, start date, and end date of all the jobs they have held.
+// Question 11: Extract to an array of objects with the name of all the people who have "yoga" as a hobby, and create a new field "job_history" which is an array of objects containing the company, position, start date, and end date of all the jobs they have held.
 
