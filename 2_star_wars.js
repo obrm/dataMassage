@@ -243,14 +243,14 @@ const data = {
   ]
 };
 
-// Question 1: Extract the name of the planet with the smallest population that has a temperate climate and mountains terrain.
+// Question 1: Return an object of the planet with the smallest population that has a temperate climate and mountains terrain.
 
-// Question 2: Extract the names of all the planets that have a 'temperate' climate, and return the name of the planet, the climate and the number of films in which it was featured, also sort it by the number of films in descending order, using a for of loop and if else statement.
+// Question 2: Extract the names of all the planets that have a 'temperate' climate, and return an object with the name of the planet, the climate and the number of films in which it was featured, also sort it by the number of films in descending order.
 
-// Question 3: Count the number of planets which appeared in more than 3 films, and return an array of objects, each object has the name of the planet, the climate, the terrain and the number of films.
+// Question 3: Return an array of objects of planets which appeared in more than 3 films. Each object should have the name of the planet, the climate, the terrain and the number of films.
 
-// Question 4: Extract the names of all the planets that have a specific climate and terrain, and return an array of objects, each object has the name of the planet, the climate, the terrain, the number of films and the number of residents.
+// Question 4: Extract the names of all the planets that have a temperate climate and mountains terrain, and return an array of objects, each object has the name of the planet, the climate, the terrain, the number of films and the number of residents.
 
-// Question 5: Extract the name of the planet that has the most number of films featured in and the number of films, and the planet that has the least number of films featured in and the number of films.
-
+// Question 5: Return an array with 2 objects. One object with the name of the planet that has the most number of films featured in and the number of films, and an object of the planet that has the least number of films featured in and the number of films.
+// expected output: maxMinFilmsPlanet [ { name: 'Planet X', films: 5 }, { name: 'Planet Y', films: 1 } ]
 // Question 6: Extract the name, climate, terrain and the number of films for all the planets, and return an object that has the name of the planet as the key and the other data as the value.
